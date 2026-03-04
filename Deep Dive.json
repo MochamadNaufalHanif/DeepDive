@@ -1,9 +1,9 @@
 {
   "firstLayout": "HomePage",
   "gdVersion": {
-    "build": 248,
+    "build": 258,
     "major": 5,
-    "minor": 5,
+    "minor": 6,
     "revision": 0
   },
   "properties": {
@@ -99,7 +99,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041526 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -107,7 +107,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041437 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -115,7 +115,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041709 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -123,7 +123,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041740 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -131,7 +131,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041516 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -139,7 +139,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041508 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -147,7 +147,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041459 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -155,7 +155,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041455 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -163,7 +163,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041452 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -171,7 +171,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041536 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -179,7 +179,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041445 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -187,7 +187,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041440 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -195,7 +195,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 244_20250811041637 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -203,7 +203,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 159_202508120626192.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -211,7 +211,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 272_20250812062208 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -219,7 +219,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 236_20250810191939 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -227,7 +227,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 236_20250810192623 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -235,7 +235,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 236_20250810190911 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -243,7 +243,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 236_20250810191618 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -251,7 +251,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 236_20250810192115 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -259,7 +259,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 236_20250810190754 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -267,7 +267,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 227_20250810091418 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -275,7 +275,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810193747 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -283,7 +283,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810194342 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -291,7 +291,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810194357 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -299,7 +299,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200341 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -307,7 +307,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200320 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -315,7 +315,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810194904 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -323,7 +323,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810194853 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -331,7 +331,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810195905 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -339,7 +339,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810194956 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -347,7 +347,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200434 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -355,7 +355,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200421 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -363,7 +363,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200510 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -371,7 +371,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200524 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -379,7 +379,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200605 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -387,7 +387,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200550 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -395,7 +395,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200124 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -403,7 +403,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810200120 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -411,7 +411,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810201703 2 (1).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -419,7 +419,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810201717 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -427,7 +427,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810201733 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -435,7 +435,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810201744 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -443,7 +443,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810201824 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -451,7 +451,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 234_20250810201811 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -459,7 +459,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 193_20250808025230 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -467,7 +467,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 241_20250810235352 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -475,7 +475,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 241_20250810235242 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -483,7 +483,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 241_20250810235309 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -491,7 +491,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 241_20250810235151 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -499,7 +499,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 273_20250814082808 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -507,7 +507,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 273_20250814082538 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -695,7 +695,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233413 2 (Custom).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -703,7 +703,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233822 2 (Custom).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -711,7 +711,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 193_20250808025230 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -719,7 +719,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 232_20250810234000 2 (Custom)4.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -727,7 +727,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233712 2 (Custom).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -735,7 +735,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233802 2 (Custom).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -743,7 +743,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233739 2 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -751,7 +751,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233613 2 (Custom).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -759,7 +759,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233648 2 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -767,7 +767,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 219_20250810050119 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -775,7 +775,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 219_20250810050521 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -783,7 +783,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 220_20250810050818 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -791,7 +791,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 221_20250810051322 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -799,7 +799,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 222_20250810052004 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -807,7 +807,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 219_20250810050110 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -815,7 +815,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 219_20250810050100 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -823,7 +823,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 219_20250810050114 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -831,7 +831,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"1 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "1 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -839,7 +839,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"2 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "2 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -847,7 +847,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"3 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "3 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -855,7 +855,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"4 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "4 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -863,7 +863,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"5 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "5 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -871,7 +871,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"6 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "6 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -879,7 +879,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"7 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "7 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -887,7 +887,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"8 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "8 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -895,7 +895,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"9 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "9 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -903,7 +903,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"10 (Custom)2.png\",\"extension\":\".png\"}",
         "name": "10 (Custom)2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -911,7 +911,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233440 6 (Custom).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -919,7 +919,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233547 2 (Custom).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -927,7 +927,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233842 2 (Custom).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -935,7 +935,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 239_20250810233509 2 (Custom)3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -943,7 +943,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_21",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -951,7 +951,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_22",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -959,7 +959,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_23",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -967,7 +967,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_24",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -975,7 +975,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_25",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -983,7 +983,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_26",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -991,7 +991,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_27",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -999,7 +999,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_28",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1007,7 +1007,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_29",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1015,7 +1015,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_30",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1023,7 +1023,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_31",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1031,7 +1031,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_32",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1039,7 +1039,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_33",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1047,7 +1047,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_34",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1055,7 +1055,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_35",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1063,7 +1063,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_36",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1071,7 +1071,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_37",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1079,7 +1079,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_38",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1087,7 +1087,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "(0) Loading screen_39",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1102,7 +1102,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 306_20250816103746.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1110,7 +1110,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 223_20250810052356 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1118,7 +1118,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 179_20250807234418 7.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1126,7 +1126,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 223_20250810053144 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1134,7 +1134,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 223_20250810053235 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1142,7 +1142,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 217_20250810070404 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1150,7 +1150,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 217_20250810070452 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1158,7 +1158,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 218_20250810070708 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1166,7 +1166,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 218_20250810071012 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1174,7 +1174,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 271_20250812032837 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1182,7 +1182,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 271_20250812032850 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1190,7 +1190,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 271_20250812032850 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1198,7 +1198,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 271_20250812032850 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1206,7 +1206,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 271_20250812032900 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1214,7 +1214,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 271_20250812032900 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1222,7 +1222,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 271_20250812032900 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1230,7 +1230,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 256_20250811100056 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1238,7 +1238,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 251_20250811095828 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1246,7 +1246,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 257_20250811101022 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1254,7 +1254,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 257_20250811101022 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1262,7 +1262,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 256_20250811100203 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1270,7 +1270,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 257_20250811101022 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1278,7 +1278,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 219_20250810050106 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1286,7 +1286,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite4",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1294,7 +1294,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite5.png\"}",
         "name": "NewSprite5",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1302,7 +1302,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 256_202508111000562.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1310,7 +1310,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 256_202508111000563.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1318,7 +1318,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 251_20250811095916 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1326,7 +1326,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 251_20250811100004 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1334,7 +1334,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 257_202508111012002.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1342,7 +1342,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 257_20250811101105 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1350,7 +1350,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 257_20250811101200 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1358,7 +1358,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 257_20250811101105 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1366,7 +1366,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 257_20250811101200 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1390,7 +1390,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Dasarnya2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1398,7 +1398,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Buat score nya2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1406,7 +1406,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"Tanda next (Custom)5.png\",\"extension\":\".png\"}",
         "name": "Tanda next (Custom)5.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1414,7 +1414,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Tanda reply (Custom)3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1443,7 +1443,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 257_20250811101105 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1467,7 +1467,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 237_20250810234134 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1475,7 +1475,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 237_20250810234050 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1483,7 +1483,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 237_20250810234113 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1491,7 +1491,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 237_20250810234116 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1499,7 +1499,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 193_20250808025234 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1507,7 +1507,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 193_20250808025234 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1515,7 +1515,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 162_20250806105513 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1523,7 +1523,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 167_20250807055519 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1531,7 +1531,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 163_20250806110016 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1539,7 +1539,7 @@
         "kind": "image",
         "metadata": "",
         "name": "hihihiu 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1547,7 +1547,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 172_20250807093517 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1555,7 +1555,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 171_20250807093307 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1563,7 +1563,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 170_20250807092937 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1571,7 +1571,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 183_20250807105622 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1579,7 +1579,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 186_20250808002200 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1587,7 +1587,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 186_20250808002242 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1595,7 +1595,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 180_20250808001016 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1603,7 +1603,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 180_20250808001041 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1611,7 +1611,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 184_20250808001812 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1619,7 +1619,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 184_20250808001737 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1627,7 +1627,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 187_20250808002343 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1635,7 +1635,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 187_20250808002410 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1643,7 +1643,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 179_20250807234418 4 - Copy (2).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1651,7 +1651,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 182_20250807104800 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1659,7 +1659,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"Senza titolo 246_20250811061208 1.png\",\"extension\":\".png\"}",
         "name": "Senza titolo 246_20250811061208 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1667,7 +1667,7 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Senza titolo 246_20250811061217 1",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1675,7 +1675,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 251_20250811093326 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1683,7 +1683,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 251_20250811094025 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1691,7 +1691,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_20250811061224 1 - Copy.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1699,7 +1699,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_20250811091934 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1707,7 +1707,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_20250811091808 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1715,7 +1715,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_20250811092025 (1) 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1723,7 +1723,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_20250811091934 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1731,7 +1731,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_20250811091808 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1739,7 +1739,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_20250811092025 (1) 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1747,7 +1747,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_20250811092025 (1) 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1755,7 +1755,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 267_20250811172335 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1763,7 +1763,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 267_20250811172638 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1771,7 +1771,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 267_20250811172638 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1779,7 +1779,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 267_20250811172646 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1787,7 +1787,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 267_20250811172646 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1795,7 +1795,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 267_20250811172646 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1803,7 +1803,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 195_20250810234615 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1843,7 +1843,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 195_20250810234633 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1851,7 +1851,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 193_20250808025222 (2) 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1891,7 +1891,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 195_20250808030427 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1899,7 +1899,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 195_20250808030430 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1907,7 +1907,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 195_20250808030434 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1915,7 +1915,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 195_20250808030439 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1923,7 +1923,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 198_20250808031805 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1931,7 +1931,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 199_20250808032155 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1939,7 +1939,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 169_20250807092705 (1) 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1955,7 +1955,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 179_20250807234418 5.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1963,7 +1963,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 206_20250808044040 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1971,7 +1971,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 207_20250808053240 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1979,7 +1979,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 208_20250808053440 1 (1).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1987,7 +1987,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 207_20250808053329 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -1995,7 +1995,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 181_202508080009032.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2003,7 +2003,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 155_202508060540432.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2011,7 +2011,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 208_20250808053553 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2019,7 +2019,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 206_20250808044117 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2027,7 +2027,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_20250811151822 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2035,7 +2035,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_20250811151846 1 - Copy.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2043,7 +2043,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 261_20250811152017 (2) 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2051,7 +2051,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 261_20250811152207 (2) 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2059,7 +2059,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 261_20250811152101 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2067,7 +2067,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_20250811153927 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2075,7 +2075,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_20250811154048 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2083,7 +2083,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_20250811153927 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2091,7 +2091,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_20250811154140 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2099,7 +2099,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_20250811154048 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2107,7 +2107,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_202508111539275.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2115,7 +2115,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 264_20250811164746 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2123,7 +2123,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 264_20250811164807 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2131,7 +2131,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 264_20250811164807 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2139,7 +2139,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 264_20250811164807 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2147,7 +2147,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 264_20250811164957 2.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2155,7 +2155,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 264_20250811164957 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2163,7 +2163,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 264_20250811164957 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2171,7 +2171,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_20250811154140 3.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2179,7 +2179,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_20250811154048 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2187,7 +2187,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 260_202508111541403.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2195,7 +2195,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_20250811091808 1.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2203,7 +2203,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 246_202508110919343.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2211,7 +2211,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 193_20250808025222 (2) 1 (1).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2219,7 +2219,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 272_202508120622303.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2227,7 +2227,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 384_20250822040257.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2235,7 +2235,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 384_20250822040244.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2243,7 +2243,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 384_20250822040224.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2258,7 +2258,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 384_20250822040259.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2266,7 +2266,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 384_20250822040226.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2274,7 +2274,7 @@
         "kind": "image",
         "metadata": "{\"localFilePath\":\"Senza titolo 272_202508120625303.png\",\"extension\":\".png\"}",
         "name": "Senza titolo 272_202508120625303.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2320,7 +2320,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 380_20250821040719 (Custom) (Custom).png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2328,7 +2328,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 272_202508120625304.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2336,7 +2336,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Senza titolo 384_20250822040247.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -2574,7 +2574,7 @@
         "kind": "image",
         "metadata": "",
         "name": "Tanda next (Custom)7.png",
-        "smoothed": false,
+        "smoothed": true,
         "userAdded": false
       },
       {
@@ -21132,7 +21132,8 @@
         "snap": false,
         "zoomFactor": 0.47893418845352564,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [
@@ -24398,7 +24399,8 @@
         "snap": false,
         "zoomFactor": 0.6040838749988874,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [],
@@ -29564,7 +29566,8 @@
         "snap": false,
         "zoomFactor": 0.5653158055126322,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [
         {
@@ -57417,7 +57420,8 @@
         "snap": false,
         "zoomFactor": 0.546875,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [
         {
@@ -62365,7 +62369,8 @@
         "snap": false,
         "zoomFactor": 0.49508400737488945,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [
@@ -68771,7 +68776,8 @@
         "snap": false,
         "zoomFactor": 0.44819780454103647,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [],
@@ -72058,7 +72064,8 @@
         "snap": false,
         "zoomFactor": 0.546875,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [
@@ -75056,7 +75063,29 @@
               "name": "Index"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "ShouldCheckHovering"
+              },
+              {
+                "propertyName": "State"
+              },
+              {
+                "propertyName": "TouchId"
+              },
+              {
+                "propertyName": "TouchIsInside"
+              },
+              {
+                "propertyName": "MouseIsInside"
+              },
+              {
+                "propertyName": "Index"
+              }
+            ]
+          }
         },
         {
           "description": "Enable effects on buttons based on their state.",
@@ -75597,7 +75626,31 @@
               "name": "PressedEffect"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "ButtonFSM"
+              },
+              {
+                "propertyName": "Effect"
+              },
+              {
+                "folderName": "Effects",
+                "children": [
+                  {
+                    "propertyName": "IdleEffect"
+                  },
+                  {
+                    "propertyName": "FocusedEffect"
+                  },
+                  {
+                    "propertyName": "PressedEffect"
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "description": "Change the animation of buttons according to their state.",
@@ -76047,7 +76100,31 @@
               "name": "PressedAnimationName"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "Animation"
+              },
+              {
+                "propertyName": "ButtonFSM"
+              },
+              {
+                "folderName": "Animation",
+                "children": [
+                  {
+                    "propertyName": "IdleAnimationName"
+                  },
+                  {
+                    "propertyName": "FocusedAnimationName"
+                  },
+                  {
+                    "propertyName": "PressedAnimationName"
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "description": "Smoothly change an effect on buttons according to their state.",
@@ -77834,7 +77911,77 @@
               "name": "EffectValue"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "ButtonFSM"
+              },
+              {
+                "propertyName": "Effect"
+              },
+              {
+                "folderName": "Effect",
+                "children": [
+                  {
+                    "propertyName": "EffectName"
+                  },
+                  {
+                    "propertyName": "EffectProperty"
+                  }
+                ]
+              },
+              {
+                "folderName": "Value",
+                "children": [
+                  {
+                    "propertyName": "IdleValue"
+                  },
+                  {
+                    "propertyName": "FocusedValue"
+                  },
+                  {
+                    "propertyName": "PressedValue"
+                  }
+                ]
+              },
+              {
+                "folderName": "Speed",
+                "children": [
+                  {
+                    "propertyName": "FadeInEasing"
+                  },
+                  {
+                    "propertyName": "FadeOutEasing"
+                  },
+                  {
+                    "propertyName": "FadeInDuration"
+                  },
+                  {
+                    "propertyName": "FadeOutDuration"
+                  }
+                ]
+              },
+              {
+                "propertyName": "PreviousState"
+              },
+              {
+                "propertyName": "TweenInitialValue"
+              },
+              {
+                "propertyName": "TweenTargetedValue"
+              },
+              {
+                "propertyName": "TweenTime"
+              },
+              {
+                "propertyName": "TweenState"
+              },
+              {
+                "propertyName": "EffectValue"
+              }
+            ]
+          }
         },
         {
           "description": "Smoothly resize buttons according to their state.",
@@ -79144,7 +79291,54 @@
               "name": "PreviousState"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "Scale"
+              },
+              {
+                "propertyName": "ButtonFSM"
+              },
+              {
+                "propertyName": "Tween"
+              },
+              {
+                "folderName": "Size",
+                "children": [
+                  {
+                    "propertyName": "IdleScale"
+                  },
+                  {
+                    "propertyName": "FocusedScale"
+                  },
+                  {
+                    "propertyName": "PressedScale"
+                  }
+                ]
+              },
+              {
+                "folderName": "Speed",
+                "children": [
+                  {
+                    "propertyName": "FadeInDuration"
+                  },
+                  {
+                    "propertyName": "FadeOutDuration"
+                  },
+                  {
+                    "propertyName": "FadeInEasing"
+                  },
+                  {
+                    "propertyName": "FadeOutEasing"
+                  }
+                ]
+              },
+              {
+                "propertyName": "PreviousState"
+              }
+            ]
+          }
         },
         {
           "description": "Smoothly change the color tint of buttons according to their state.",
@@ -80455,7 +80649,51 @@
               "name": "PreviousState"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "ButtonFSM"
+              },
+              {
+                "propertyName": "Tween"
+              },
+              {
+                "folderName": "Color",
+                "children": [
+                  {
+                    "propertyName": "IdleColorTint"
+                  },
+                  {
+                    "propertyName": "FocusedColorTint"
+                  },
+                  {
+                    "propertyName": "PressedColorTint"
+                  }
+                ]
+              },
+              {
+                "folderName": "Speed",
+                "children": [
+                  {
+                    "propertyName": "FadeInDuration"
+                  },
+                  {
+                    "propertyName": "FadeOutDuration"
+                  },
+                  {
+                    "propertyName": "FadeInEasing"
+                  },
+                  {
+                    "propertyName": "FadeOutEasing"
+                  }
+                ]
+              },
+              {
+                "propertyName": "PreviousState"
+              }
+            ]
+          }
         }
       ],
       "eventsBasedObjects": []
@@ -81861,7 +82099,62 @@
               "name": "OldY"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "folderName": "Ellipse",
+                "children": [
+                  {
+                    "propertyName": "RadiusX"
+                  },
+                  {
+                    "propertyName": "RadiusY"
+                  }
+                ]
+              },
+              {
+                "folderName": "Speed",
+                "children": [
+                  {
+                    "propertyName": "LoopDuration"
+                  },
+                  {
+                    "propertyName": "InitialTurningLeft"
+                  },
+                  {
+                    "propertyName": "InitialDirectionAngle"
+                  }
+                ]
+              },
+              {
+                "folderName": "Rotation",
+                "children": [
+                  {
+                    "propertyName": "ShouldRotate"
+                  },
+                  {
+                    "propertyName": "RotationOffset"
+                  }
+                ]
+              },
+              {
+                "propertyName": "CenterX"
+              },
+              {
+                "propertyName": "CenterY"
+              },
+              {
+                "propertyName": "MovementAngle"
+              },
+              {
+                "propertyName": "OldX"
+              },
+              {
+                "propertyName": "OldY"
+              }
+            ]
+          }
         }
       ],
       "eventsBasedObjects": []
@@ -82569,7 +82862,51 @@
               "name": "YScaleTimeMax"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "Scale"
+              },
+              {
+                "propertyName": "TweenBehavior"
+              },
+              {
+                "folderName": "Angle",
+                "children": [
+                  {
+                    "propertyName": "AngleLeft"
+                  },
+                  {
+                    "propertyName": "AngleRight"
+                  },
+                  {
+                    "propertyName": "AngleTimeMin"
+                  },
+                  {
+                    "propertyName": "AngleTimeMax"
+                  }
+                ]
+              },
+              {
+                "folderName": "Y scale",
+                "children": [
+                  {
+                    "propertyName": "YScaleMin"
+                  },
+                  {
+                    "propertyName": "YScaleMax"
+                  },
+                  {
+                    "propertyName": "YScaleTimeMin"
+                  },
+                  {
+                    "propertyName": "YScaleTimeMax"
+                  }
+                ]
+              }
+            ]
+          }
         }
       ],
       "eventsBasedObjects": []
@@ -87594,7 +87931,95 @@
               "name": "Viewpoint"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "Flippable"
+              },
+              {
+                "propertyName": "Rotation"
+              },
+              {
+                "propertyName": "RotationOffset"
+              },
+              {
+                "propertyName": "FlipXToGoBack"
+              },
+              {
+                "propertyName": "FlipYToGoBack"
+              },
+              {
+                "propertyName": "SpeedScale"
+              },
+              {
+                "propertyName": "PathOriginX"
+              },
+              {
+                "propertyName": "PathOriginY"
+              },
+              {
+                "propertyName": "Target"
+              },
+              {
+                "propertyName": "Origin"
+              },
+              {
+                "propertyName": "PathName"
+              },
+              {
+                "propertyName": "Duration"
+              },
+              {
+                "propertyName": "Easing"
+              },
+              {
+                "propertyName": "DrawingElementIndex"
+              },
+              {
+                "propertyName": "X"
+              },
+              {
+                "propertyName": "Y"
+              },
+              {
+                "propertyName": "PathAngle"
+              },
+              {
+                "propertyName": "PathScale"
+              },
+              {
+                "propertyName": "RepetitionCount"
+              },
+              {
+                "propertyName": "ShouldGoBack"
+              },
+              {
+                "propertyName": "ShouldLoop"
+              },
+              {
+                "propertyName": "RepetitionDoneCount"
+              },
+              {
+                "propertyName": "IsGoingBack"
+              },
+              {
+                "propertyName": "PauseDurationBeforeGoingBack"
+              },
+              {
+                "propertyName": "DrawingPathOriginX"
+              },
+              {
+                "propertyName": "DrawingPathOriginY"
+              },
+              {
+                "propertyName": "DebugLineStrokeWidth"
+              },
+              {
+                "propertyName": "Viewpoint"
+              }
+            ]
+          }
         },
         {
           "description": "Move objects on curved paths at a given speed.",
@@ -90351,7 +90776,82 @@
               "name": "Viewpoint"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "folderName": "Rotation",
+                "children": [
+                  {
+                    "propertyName": "Rotation"
+                  },
+                  {
+                    "propertyName": "RotationOffset"
+                  }
+                ]
+              },
+              {
+                "propertyName": "Speed"
+              },
+              {
+                "propertyName": "PathOriginX"
+              },
+              {
+                "propertyName": "PathOriginY"
+              },
+              {
+                "propertyName": "PathName"
+              },
+              {
+                "propertyName": "TargetedSpeed"
+              },
+              {
+                "propertyName": "Acceleration"
+              },
+              {
+                "propertyName": "DrawingElementIndex"
+              },
+              {
+                "propertyName": "X"
+              },
+              {
+                "propertyName": "Y"
+              },
+              {
+                "propertyName": "PathAngle"
+              },
+              {
+                "propertyName": "PathScale"
+              },
+              {
+                "propertyName": "RepetitionCount"
+              },
+              {
+                "propertyName": "ShouldLoop"
+              },
+              {
+                "propertyName": "DrawingPathOriginX"
+              },
+              {
+                "propertyName": "DrawingPathOriginY"
+              },
+              {
+                "propertyName": "DebugLineStrokeWidth"
+              },
+              {
+                "propertyName": "PreviousSpeed"
+              },
+              {
+                "propertyName": "CurrentLength"
+              },
+              {
+                "propertyName": "IsLookingBack"
+              },
+              {
+                "propertyName": "Viewpoint"
+              }
+            ]
+          }
         }
       ],
       "eventsBasedObjects": []
@@ -90865,7 +91365,23 @@
               "name": "StepSize"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "CurrentValue"
+              },
+              {
+                "propertyName": "MinValue"
+              },
+              {
+                "propertyName": "MaxValue"
+              },
+              {
+                "propertyName": "StepSize"
+              }
+            ]
+          }
         },
         {
           "description": "The finite state machine used internally by the button object.",
@@ -91975,7 +92491,29 @@
               "name": "Index"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "ShouldCheckHovering"
+              },
+              {
+                "propertyName": "State"
+              },
+              {
+                "propertyName": "TouchId"
+              },
+              {
+                "propertyName": "TouchIsInside"
+              },
+              {
+                "propertyName": "MouseIsInside"
+              },
+              {
+                "propertyName": "Index"
+              }
+            ]
+          }
         }
       ],
       "eventsBasedObjects": [
@@ -94004,6 +94542,77 @@
               "name": "OldParentWidth"
             }
           ],
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "folderName": "Bar",
+                "children": [
+                  {
+                    "propertyName": "BarLeftPadding"
+                  },
+                  {
+                    "propertyName": "BarTopPadding"
+                  },
+                  {
+                    "propertyName": "BarRightPadding"
+                  },
+                  {
+                    "propertyName": "BarBottomPadding"
+                  }
+                ]
+              },
+              {
+                "folderName": "Label",
+                "children": [
+                  {
+                    "propertyName": "ShowLabelAtChanges"
+                  },
+                  {
+                    "propertyName": "LabelMargin"
+                  }
+                ]
+              },
+              {
+                "folderName": "Value",
+                "children": [
+                  {
+                    "propertyName": "MinValue"
+                  },
+                  {
+                    "propertyName": "MaxValue"
+                  },
+                  {
+                    "propertyName": "StepSize"
+                  },
+                  {
+                    "propertyName": "InitialValue"
+                  }
+                ]
+              },
+              {
+                "propertyName": "PreviousInitialValue"
+              },
+              {
+                "propertyName": "ThumbAnchorOrigin"
+              },
+              {
+                "propertyName": "ThumbAnchorTarget"
+              },
+              {
+                "propertyName": "ShowLabel"
+              },
+              {
+                "propertyName": "BarLeftPlusRightMargin"
+              },
+              {
+                "propertyName": "BarTopPlusBottomMargin"
+              },
+              {
+                "propertyName": "OldParentWidth"
+              }
+            ]
+          },
           "variants": [
             {
               "areaMaxX": 256,
@@ -94275,7 +94884,8 @@
                 "snap": false,
                 "zoomFactor": 2.734375,
                 "windowMask": false,
-                "selectedLayer": ""
+                "selectedLayer": "",
+                "gameEditorMode": "instances-editor"
               }
             },
             {
@@ -94548,7 +95158,8 @@
                 "snap": false,
                 "zoomFactor": 2.734375,
                 "windowMask": false,
-                "selectedLayer": ""
+                "selectedLayer": "",
+                "gameEditorMode": "instances-editor"
               }
             }
           ]
@@ -96134,7 +96745,38 @@
               "name": "RandomPosition"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "SpawnPeriod"
+              },
+              {
+                "propertyName": "OffsetX"
+              },
+              {
+                "propertyName": "OffsetY"
+              },
+              {
+                "propertyName": "JustSpawnedAnObject"
+              },
+              {
+                "propertyName": "MaxQuantityReached"
+              },
+              {
+                "propertyName": "MaxQuantity"
+              },
+              {
+                "propertyName": "SpawnerCapacity"
+              },
+              {
+                "propertyName": "UnlimitedCapacity"
+              },
+              {
+                "propertyName": "RandomPosition"
+              }
+            ]
+          }
         }
       ],
       "eventsBasedObjects": []
@@ -101696,7 +102338,32 @@
               "name": "EnableAutomaticDragging"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "propertyName": "PhysicsBehavior"
+              },
+              {
+                "propertyName": "MouseButton"
+              },
+              {
+                "propertyName": "MaxForce"
+              },
+              {
+                "propertyName": "Frequency"
+              },
+              {
+                "propertyName": "Damping"
+              },
+              {
+                "propertyName": "MouseJointID"
+              },
+              {
+                "propertyName": "EnableAutomaticDragging"
+              }
+            ]
+          }
         }
       ],
       "eventsBasedObjects": []
@@ -103909,7 +104576,56 @@
               "name": "CollisionLayer"
             }
           ],
-          "sharedPropertyDescriptors": []
+          "propertiesFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "folderName": "Movement",
+                "children": [
+                  {
+                    "propertyName": "MaxSpeed"
+                  },
+                  {
+                    "propertyName": "MaxAcceleration"
+                  },
+                  {
+                    "propertyName": "ShouldRotate"
+                  }
+                ]
+              },
+              {
+                "folderName": "Sight",
+                "children": [
+                  {
+                    "propertyName": "CohesionRadius"
+                  },
+                  {
+                    "propertyName": "AlignmentRadius"
+                  },
+                  {
+                    "propertyName": "SeparationRadius"
+                  }
+                ]
+              },
+              {
+                "folderName": "Decision",
+                "children": [
+                  {
+                    "propertyName": "CohesionWeight"
+                  },
+                  {
+                    "propertyName": "AlignmentWeight"
+                  },
+                  {
+                    "propertyName": "SeparationWeight"
+                  }
+                ]
+              },
+              {
+                "propertyName": "CollisionLayer"
+              }
+            ]
+          }
         }
       ],
       "eventsBasedObjects": []
